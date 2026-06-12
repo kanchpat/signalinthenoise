@@ -1,0 +1,1 @@
+Infographic: A central agent node splitting into specialized tendrils (DNA, stethoscope, padlock, dollar sign).

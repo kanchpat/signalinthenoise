@@ -1,3 +1,1 @@
-- **Visual Structure:** A radar/sonar graphic showing a digital perimeter. Instead of traditional "hacker" silhouettes breaching the wall, depict glowing algorithmic "worms" or autonomous drone-like code snippets bypassing standard firewall nodes.
-- **Style Priority:** Cyberpunk security. Neon reds, alert yellows, and deep black. 
-- **Key Visual Elements:** Highlight "Model Context Protocol (MCP) Vulnerabilities" in a red alert box. Use a visual metaphor of a lock that is being unraveled by a neural network, rather than picked by a key.
+Infographic: AI factory spewing data streams that turn into heavy water and carbon footprints.

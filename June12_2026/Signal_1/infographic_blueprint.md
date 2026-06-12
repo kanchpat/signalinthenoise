@@ -1,3 +1,1 @@
-- **Visual Structure:** A stark contrast diagram. Top half shows a traditional human-with-credit-card checkout flow. Bottom half shows two glowing, faceless agent nodes directly exchanging encrypted tokens across a digital ledger.
-- **Style Priority:** High-tech finance, sleek and dark. Use deep purples and neon greens.
-- **Key Visual Elements:** Highlight "Agent-Initiated Payments" and "Machine-to-Machine Commerce" as the central text nodes. Use an icon of a traditional bank vault being bypassed by a glowing fiber-optic network.
+Infographic: Market Indicators chart hitting a wall of reorganization blocks.
