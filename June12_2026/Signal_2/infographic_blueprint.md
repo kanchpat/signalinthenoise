@@ -1,0 +1,3 @@
+- **Visual Structure:** A heavy, physical wall graphic blocking an upward trending line chart. The chart is made of glowing data streams, but it crashes into concrete blocks labeled "Water," "Power Grid," and "ROI."
+- **Style Priority:** Gritty realism meets high-tech data. Use slate grays, hazard oranges, and harsh contrasts to emphasize constraints.
+- **Key Visual Elements:** Place the UN water/energy stats prominently on the "physical wall" side, and the Guardian's "hypothetical returns" quote on the financial side.
