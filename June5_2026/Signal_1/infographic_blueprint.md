@@ -1,0 +1,3 @@
+- **Visual Structure:** A high-contrast "Before and After" comparison diagram. The left side shows a traditional, fragmented, human-bottlenecked CI/CD pipeline. The right side shows a streamlined "Agentic Loop" where human oversight is shifted to the outer boundaries.
+- **Style Priority:** Clean, corporate futurism. Use deep blues and metallic accents on a dark background to emphasize efficiency and structure. Avoid clutter.
+- **Key Visual Elements:** Make the two key highlights the central text nodes. Use a large "ROI" visual metaphor (like a rising but constrained graph) that shatters when moving to the new organizational structure model.

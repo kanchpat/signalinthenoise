@@ -1,0 +1,3 @@
+- **Visual Structure:** A converging dual-pathway flowchart. The top path represents "Spatial Intelligence" (Large World Models) moving outward into the physical world. The bottom path represents "Quantization" moving inward toward a microchip.
+- **Style Priority:** Sleek, high-tech realism. Use vibrant neon lines (cyan and magenta) against a dark grid. Keep text minimal and highly legible.
+- **Key Visual Elements:** Use a glowing isometric microchip to represent on-device performance, and a holographic 3D globe to represent spatial intelligence. The 2 key highlights should anchor the top and bottom of the graphic.

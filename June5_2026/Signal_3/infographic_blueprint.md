@@ -1,0 +1,3 @@
+- **Visual Structure:** A timeline or momentum arrow moving from left to right, transitioning from standard molecular structures (left) into glowing, digitized DNA strands (right).
+- **Style Priority:** Clinical, futuristic, and precise. Use stark white, bio-luminescent greens, and deep purples. 
+- **Key Visual Elements:** Place the 2 key highlights in clean, frosted-glass interface boxes overlaying the DNA visuals. Use a prominent icon of a microscope morphing into a neural network node to symbolize AI as the new instrument of science.
